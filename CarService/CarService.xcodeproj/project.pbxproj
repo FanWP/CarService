@@ -191,9 +191,9 @@
 				D7AE23C71DBF558E0037C856 /* CarService */,
 				D7AE23E11DBF558F0037C856 /* CarServiceTests */,
 				D7AE23EC1DBF558F0037C856 /* CarServiceUITests */,
-				D7AE23C61DBF558E0037C856 /* Products */,
-				04172C08B7DEA3668BC001A1 /* Pods */,
 				878940D34FDADDF5A2DEFA3C /* Frameworks */,
+				04172C08B7DEA3668BC001A1 /* Pods */,
+				D7AE23C61DBF558E0037C856 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
