@@ -22,7 +22,6 @@
 		D754062E1DC043F70035473A /* Foundation+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = D754062D1DC043F70035473A /* Foundation+Log.m */; };
 		D75406311DC043FD0035473A /* NSString+extension.m in Sources */ = {isa = PBXBuildFile; fileRef = D75406301DC043FD0035473A /* NSString+extension.m */; };
 		D754063C1DC0440E0035473A /* UIImage+Cut.m in Sources */ = {isa = PBXBuildFile; fileRef = D75406331DC0440E0035473A /* UIImage+Cut.m */; };
-		D754063D1DC0440E0035473A /* UIImage+Pinch.m in Sources */ = {isa = PBXBuildFile; fileRef = D75406351DC0440E0035473A /* UIImage+Pinch.m */; };
 		D754063E1DC0440E0035473A /* UIImage+Tool.m in Sources */ = {isa = PBXBuildFile; fileRef = D75406371DC0440E0035473A /* UIImage+Tool.m */; };
 		D754063F1DC0440E0035473A /* UILabel+LabelHeightAndWidth.m in Sources */ = {isa = PBXBuildFile; fileRef = D75406391DC0440E0035473A /* UILabel+LabelHeightAndWidth.m */; };
 		D75406401DC0440E0035473A /* UITableViewCell+AdjustHeight.m in Sources */ = {isa = PBXBuildFile; fileRef = D754063B1DC0440E0035473A /* UITableViewCell+AdjustHeight.m */; };
@@ -84,8 +83,6 @@
 		D75406301DC043FD0035473A /* NSString+extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+extension.m"; sourceTree = "<group>"; };
 		D75406321DC0440E0035473A /* UIImage+Cut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Cut.h"; sourceTree = "<group>"; };
 		D75406331DC0440E0035473A /* UIImage+Cut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Cut.m"; sourceTree = "<group>"; };
-		D75406341DC0440E0035473A /* UIImage+Pinch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Pinch.h"; sourceTree = "<group>"; };
-		D75406351DC0440E0035473A /* UIImage+Pinch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Pinch.m"; sourceTree = "<group>"; };
 		D75406361DC0440E0035473A /* UIImage+Tool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Tool.h"; sourceTree = "<group>"; };
 		D75406371DC0440E0035473A /* UIImage+Tool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Tool.m"; sourceTree = "<group>"; };
 		D75406381DC0440E0035473A /* UILabel+LabelHeightAndWidth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+LabelHeightAndWidth.h"; sourceTree = "<group>"; };
@@ -312,8 +309,6 @@
 			children = (
 				D75406321DC0440E0035473A /* UIImage+Cut.h */,
 				D75406331DC0440E0035473A /* UIImage+Cut.m */,
-				D75406341DC0440E0035473A /* UIImage+Pinch.h */,
-				D75406351DC0440E0035473A /* UIImage+Pinch.m */,
 				D75406361DC0440E0035473A /* UIImage+Tool.h */,
 				D75406371DC0440E0035473A /* UIImage+Tool.m */,
 				D75406381DC0440E0035473A /* UILabel+LabelHeightAndWidth.h */,
@@ -678,7 +673,6 @@
 				D754062C1DC043E50035473A /* XLXConst.m in Sources */,
 				D7F348A31DC03DED0075804A /* AppDelegate.m in Sources */,
 				D75406101DC041C40035473A /* SiriusVC.m in Sources */,
-				D754063D1DC0440E0035473A /* UIImage+Pinch.m in Sources */,
 				D75406311DC043FD0035473A /* NSString+extension.m in Sources */,
 				D754062B1DC043E50035473A /* UIView+XMGExtension.m in Sources */,
 				D75406401DC0440E0035473A /* UITableViewCell+AdjustHeight.m in Sources */,
